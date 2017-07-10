@@ -1,0 +1,56 @@
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\C# for dummies\CustomCalculator\CustomCalculator\bin\Debug\CustomCalculator.exe.config
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\C# for dummies\CustomCalculator\CustomCalculator\bin\Debug\CustomCalculator.exe
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\C# for dummies\CustomCalculator\CustomCalculator\bin\Debug\CustomCalculator.pdb
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\C# for dummies\CustomCalculator\CustomCalculator\obj\Debug\MainWindow.baml
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\C# for dummies\CustomCalculator\CustomCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\C# for dummies\CustomCalculator\CustomCalculator\obj\Debug\App.g.cs
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\C# for dummies\CustomCalculator\CustomCalculator\obj\Debug\CustomCalculator_MarkupCompile.cache
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\C# for dummies\CustomCalculator\CustomCalculator\obj\Debug\CustomCalculator.g.resources
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\C# for dummies\CustomCalculator\CustomCalculator\obj\Debug\CustomCalculator.Properties.Resources.resources
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\C# for dummies\CustomCalculator\CustomCalculator\obj\Debug\CustomCalculator.csproj.GenerateResource.Cache
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\C# for dummies\CustomCalculator\CustomCalculator\obj\Debug\CustomCalculator.exe
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\C# for dummies\CustomCalculator\CustomCalculator\obj\Debug\CustomCalculator.pdb
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\CustomCalculator\CustomCalculator\bin\Debug\CustomCalculator.exe.config
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\CustomCalculator\CustomCalculator\obj\Debug\CustomCalculator.exe
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\CustomCalculator\CustomCalculator\obj\Debug\CustomCalculator.pdb
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\CustomCalculator\CustomCalculator\bin\Debug\CustomCalculator.exe
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\CustomCalculator\CustomCalculator\bin\Debug\CustomCalculator.pdb
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\CustomCalculator\CustomCalculator\obj\Debug\MainWindow.baml
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\CustomCalculator\CustomCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\CustomCalculator\CustomCalculator\obj\Debug\App.g.cs
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\CustomCalculator\CustomCalculator\obj\Debug\CustomCalculator_MarkupCompile.cache
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\CustomCalculator\CustomCalculator\obj\Debug\CustomCalculator.g.resources
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\CustomCalculator\CustomCalculator\obj\Debug\CustomCalculator.Properties.Resources.resources
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\CustomCalculator\CustomCalculator\obj\Debug\CustomCalculator.csproj.GenerateResource.Cache
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\Backup\CustomCalculator\2\CustomCalculator\CustomCalculator\bin\Debug\CustomCalculator.exe.config
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\Backup\CustomCalculator\2\CustomCalculator\CustomCalculator\obj\Debug\CustomCalculator.exe
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\Backup\CustomCalculator\2\CustomCalculator\CustomCalculator\obj\Debug\CustomCalculator.pdb
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\Backup\CustomCalculator\2\CustomCalculator\CustomCalculator\bin\Debug\CustomCalculator.exe
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\Backup\CustomCalculator\2\CustomCalculator\CustomCalculator\bin\Debug\CustomCalculator.pdb
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\Backup\CustomCalculator\2\CustomCalculator\CustomCalculator\obj\Debug\CustomCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\Backup\CustomCalculator\2\CustomCalculator\CustomCalculator\obj\Debug\MainWindow.baml
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\Backup\CustomCalculator\2\CustomCalculator\CustomCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\Backup\CustomCalculator\2\CustomCalculator\CustomCalculator\obj\Debug\App.g.cs
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\Backup\CustomCalculator\2\CustomCalculator\CustomCalculator\obj\Debug\CustomCalculator_MarkupCompile.cache
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\Backup\CustomCalculator\2\CustomCalculator\CustomCalculator\obj\Debug\CustomCalculator.g.resources
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\Backup\CustomCalculator\2\CustomCalculator\CustomCalculator\obj\Debug\CustomCalculator.Properties.Resources.resources
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\Backup\CustomCalculator\2\CustomCalculator\CustomCalculator\obj\Debug\CustomCalculator.csproj.GenerateResource.Cache
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\Backup\CustomCalculator-working\4\CustomCalculator\CustomCalculator\bin\Debug\CustomCalculator.exe.config
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\Backup\CustomCalculator-working\4\CustomCalculator\CustomCalculator\obj\Debug\MainWindow.baml
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\Backup\CustomCalculator-working\4\CustomCalculator\CustomCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\Backup\CustomCalculator-working\4\CustomCalculator\CustomCalculator\obj\Debug\App.g.cs
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\Backup\CustomCalculator-working\4\CustomCalculator\CustomCalculator\obj\Debug\CustomCalculator_MarkupCompile.cache
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\Backup\CustomCalculator-working\4\CustomCalculator\CustomCalculator\obj\Debug\CustomCalculator.g.resources
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\Backup\CustomCalculator-working\4\CustomCalculator\CustomCalculator\obj\Debug\CustomCalculator.Properties.Resources.resources
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\Backup\CustomCalculator-working\4\CustomCalculator\CustomCalculator\obj\Debug\CustomCalculator.csproj.GenerateResource.Cache
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\Backup\CustomCalculator-working\4\CustomCalculator\CustomCalculator\bin\Debug\CustomCalculator.exe
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\Backup\CustomCalculator-working\4\CustomCalculator\CustomCalculator\bin\Debug\CustomCalculator.pdb
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\Backup\CustomCalculator-working\4\CustomCalculator\CustomCalculator\obj\Debug\CustomCalculator.exe
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\Backup\CustomCalculator-working\4\CustomCalculator\CustomCalculator\obj\Debug\CustomCalculator.pdb
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\Backup\CustomCalculator-working\18\CustomCalculator\CustomCalculator\bin\Debug\CustomCalculator.exe.config
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\Backup\CustomCalculator-working\18\CustomCalculator\CustomCalculator\obj\Debug\CustomCalculator.exe
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\Backup\CustomCalculator-working\18\CustomCalculator\CustomCalculator\obj\Debug\CustomCalculator.pdb
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\Backup\CustomCalculator-working\20\CustomCalculator\CustomCalculator\bin\Debug\CustomCalculator.exe.config
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\Backup\CustomCalculator-working\20\CustomCalculator\CustomCalculator\obj\Debug\CustomCalculator.exe
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\Backup\CustomCalculator-working\20\CustomCalculator\CustomCalculator\obj\Debug\CustomCalculator.pdb
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\CustomCalculator\CustomCalculator\obj\Debug\CustomCalculator.csprojResolveAssemblyReference.cache
